@@ -1,20 +1,13 @@
 <div id="header" align="center" >
     <img src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47a5a1l8v1xw753pkllqyref9s3k7mnh2fx5foe3vv&rid=giphy.gif&ct=g" width="200" />
-  
 </div>
 
-<div id="header" align="center">
-    
+<div id="badges" align="center">
     <a href="https://mobile.twitter.com/ElSantanax">
 
-        <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fmobile.twitter.com%2FElSantanax" alt="">
+        <img src="https://img.shields.io/twitter/follow/ElSantanax" alt="twitter">
     </a>
-
 </div>
-
-
-
-
 
 
 
