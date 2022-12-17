@@ -5,9 +5,12 @@
 <div id="badges" align="center">
     <a href="https://mobile.twitter.com/ElSantanax">
 
-        <img src="https://img.shields.io/twitter/follow/ElSantanax" alt="twitter">
+        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ElSantanax">
     </a>
 </div>
+
+
+
 
 
 
