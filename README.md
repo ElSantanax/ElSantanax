@@ -2,7 +2,7 @@
     <img src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47a5a1l8v1xw753pkllqyref9s3k7mnh2fx5foe3vv&rid=giphy.gif&ct=g" width="200" />
 </div>
 
-<h1 align="center">👋 Hola yo soy José. </h1>
+<h1 align="center">👋 Hola yo soy José Santana. </h1>
 <h3 align="center"> Un apasionado autodidacta de la programación </h3> 
 <br>
 <!-- <h3 align="center">Un apasionado desarrollador frontend de Panamá</h3>  -->
