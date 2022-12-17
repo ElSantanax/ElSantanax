@@ -6,6 +6,16 @@
 <h1 align="center">Hola 👋, yo soy José</h1>
 <h3 align="center">Actualmente, estoy en constante aprendizaje de lenguajes de programación y nuevas tecnologías de forma autodidacta. Siempre he pensado que ser profesional no es tener un título, sino saber qué hacer. </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elsantanax&label=Profile%20views&color=0e75b6&style=flat"
+        alt="elsantanax" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=elsantanax" alt="elsantanax" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/elsantanax" target="blank"><img
+            src="https://img.shields.io/twitter/follow/elsantanax?logo=twitter&style=for-the-badge"
+            alt="elsantanax" /></a> </p>
+
 👀 Estoy interesado el desarrollo web, en frontend y también backend.
 
 🌱 Actualmente estoy aprendiendo: JavaScript y PHP.
@@ -16,18 +26,6 @@
 
 📫 ¿Como contactarme?, jbsanty13@gmail.com
 
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elsantanax&label=Profile%20views&color=0e75b6&style=flat"
-        alt="elsantanax" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=elsantanax" alt="elsantanax" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/elsantanax" target="blank"><img
-            src="https://img.shields.io/twitter/follow/elsantanax?logo=twitter&style=for-the-badge"
-            alt="elsantanax" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
