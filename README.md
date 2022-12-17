@@ -33,7 +33,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="elsantanax" height="30" width="40" /></a>
 
-    <a href="https://www.linkedin.com/in/jos%C3%A9-santana-8a8559245/" target="blank"><img align="left"
+    <a href="www.linkedin.com/in/jose-santana-8a8559245" target="blank"><img align="left"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="jose santana" height="30" width="40" /></a>
 
