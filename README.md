@@ -7,8 +7,8 @@
 
 <!-- <h3 align="center">Un apasionado desarrollador frontend de Panamá</h3>  -->
 
-- 👀 Me interesa el desarrollo web.
-- 🌱 Actualmente estoy aprendiendo HTML5, CSS3 y JavaScript 
+- 👀 Me interesa el desarrollo web, en frontend y tambien backend.
+- 🌱 Actualmente estoy aprendiendo HTML5, CSS3 y JavaScript. 
 - 💞️ Busco colaborar en alguna empresa como desarrollador.
 - 📫 Como contactarme jbsanty13@gmail.com
 
