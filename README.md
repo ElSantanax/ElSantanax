@@ -6,7 +6,7 @@
 
 
 
-- 👋 Hola soy José pero todos de me dicen "Santana"
+- 👋 Hola soy José, pero todos de me dicen "Santana"
 - 👀 Me interesa el desarrollo web.
 - 🌱 Actualmente estoy aprendiendo HTML5, CSS3 y JavaScript 
 - 💞️ Busco colaborar en alguna empresa como desarrollador.
