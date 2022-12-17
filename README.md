@@ -18,7 +18,7 @@
 
 👀 Estoy interesado el desarrollo web, en frontend y también backend.
 
-🌱 Actualmente estoy aprendiendo: JavaScript.
+🌱 Actualmente estoy aprendiendo: JavaScript y PHP.
 
 👯 Estoy buscando colaborar en alguna empresa como desarrollador.
 
