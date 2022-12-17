@@ -2,15 +2,16 @@
     <img src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47a5a1l8v1xw753pkllqyref9s3k7mnh2fx5foe3vv&rid=giphy.gif&ct=g" width="200" />
 </div>
 
-
 <div id="badges" align="center">
 
 <a href="https://twitter.com/ElSantanax">
 
-    <img alt="Twitter URL"
-        src="https://img.shields.io/twitter/url?color=gre&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FElSantanax">
+    <img src="https://img.shields.io/twitter/url?color=gre&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FElSantanax" alt="">
         </a>
 </div>
+
+
+
 
 
 
