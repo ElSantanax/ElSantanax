@@ -27,7 +27,7 @@
 - 📫 ¿Como contactarme?, jbsanty13@gmail.com
 
 
-<h3 align="center">Conéctate conmigo:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
     <a href="https://twitter.com/elsantanax" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
