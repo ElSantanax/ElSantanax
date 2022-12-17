@@ -13,11 +13,26 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/elsantanax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elsantanax" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/josé-santana-8a8559245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé santana" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/josé-santana-8a8559245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josé bolívar santana" height="30" width="40" /></a>
-<a href="https://instagram.com/josesantana1300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josesantana1300" height="30" width="40" /></a>
-<a href="https://discord.gg/#9824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9824" height="30" width="40" /></a>
+    <a href="https://twitter.com/elsantanax" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="elsantanax" height="30" width="40" /></a>
+
+    <a href="https://www.linkedin.com/in/jos%C3%A9-santana-8a8559245/" 
+    target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="josé santana" height="30" width="40" /></a>
+
+    <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=100082728083094" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            alt="josé bolívar santana" height="30" width="40" /></a>
+
+    <a href="https://instagram.com/josesantana1300" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="josesantana1300" height="30" width="40" /></a>
+
+    <a href="https://discord.gg/#9824" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+            alt="#9824" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
