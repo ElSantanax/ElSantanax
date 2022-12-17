@@ -3,7 +3,9 @@
 </div>
 
 <h1 align="center">👋 Hola soy José, pero todos me dicen "Santana </h1>
-<h3 align="center">Un apasionado desarrollador frontend de Panamá</h3>
+<h3 align="center">Un apasionado autodidacta de la programación </h3> 
+
+<!-- <h3 align="center">Un apasionado desarrollador frontend de Panamá</h3>  -->
 
 - 👀 Me interesa el desarrollo web.
 - 🌱 Actualmente estoy aprendiendo HTML5, CSS3 y JavaScript 
