@@ -3,11 +3,11 @@
 </div>
 
 <h1 align="center">👋 Hola soy José, pero todos me dicen "Santana" </h1>
-<h3 align="center"> Me interesa el desarrollo web, en frontend y también backend.</h3> 
+<h3 align="center"> Un apasionado autodidacta de la programación </h3> 
 <br>
 <!-- <h3 align="center">Un apasionado desarrollador frontend de Panamá</h3>  -->
 
-- 👀 Me interesa el desarrollo web, en frontend y tambien backend.
+- 👀  Me interesa el desarrollo web, en frontend y también backend.
 - 🌱 Actualmente estoy aprendiendo HTML5, CSS3 y JavaScript. 
 - 💞️ Busco colaborar en alguna empresa como desarrollador.
 - 📫 Como contactarme jbsanty13@gmail.com
