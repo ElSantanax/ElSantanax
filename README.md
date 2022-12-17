@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hola 👋, yo soy José</h1>
-<h3 align="center">Un apasionado desarrollador frontend de Panamá</h3>
+<h3 align="center">Actualmente, estoy en constante aprendizaje de las nuevas tecnologías de programación, de forma autodidacta. Siempre he pensado que ser profesional no es tener un título, sino saber qué hacer. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsantanax&label=Profile%20views&color=0e75b6&style=flat"
         alt="elsantanax" /> </p>
