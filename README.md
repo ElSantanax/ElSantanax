@@ -12,7 +12,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=elsantanax" alt="elsantanax" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/elsantanax" target="blank"><img
+<p align="left"> <a href="https://twitter.com/elsantanax" target="blank"><img
             src="https://img.shields.io/twitter/follow/elsantanax?logo=twitter&style=for-the-badge"
             alt="elsantanax" /></a> </p>
 
