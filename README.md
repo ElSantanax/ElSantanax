@@ -1,6 +1,9 @@
 <div id="header" align="center" >
-    <img src="<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh"></a></p>" alt="">
+    <img src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47a5a1l8v1xw753pkllqyref9s3k7mnh2fx5foe3vv&rid=giphy.gif&ct=g" alt="">
 </div>
+
+
+
 
 
 - 👋 Hola soy José pero todos de me dicen "Santana"
