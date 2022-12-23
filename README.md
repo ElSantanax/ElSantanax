@@ -22,7 +22,7 @@
 
 👯 Estoy buscando colaborar en alguna empresa como desarrollador.
 
-💬 Preguntame sobre: HTML, CSS, SCSS y MySQL.
+💬 Preguntame sobre: HTML, CSS, Sass y MySQL.
 
 📫 ¿Como contactarme?, jbsanty13@gmail.com
 
