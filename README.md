@@ -1,7 +1,6 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="25%" alt="GIF">
+<img src="https://github.com/user-attachments/assets/428f1582-e004-46af-9b66-a612b271a0a3" width="25%" alt="GIF">
 </div>
-![github-header-image](https://github.com/user-attachments/assets/428f1582-e004-46af-9b66-a612b271a0a3)
 
 
 <h1 align="center">Hola 👋, yo soy José</h1>
