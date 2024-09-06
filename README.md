@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://github.com/user-attachments/assets/e79febd9-7d75-42b0-a027-90dd0a34db9d" width="100%" alt="Imagen">
+<img src="https://github.com/user-attachments/assets/e79febd9-7d75-42b0-a027-90dd0a34db9d" width="auto" alt="Imagen">
 </div>
 
 <h1 align="center">Hola 👋, yo soy José</h1>
