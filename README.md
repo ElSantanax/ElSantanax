@@ -1,7 +1,6 @@
 <div id="header" align="center">
-<img src="https://github.com/user-attachments/assets/428f1582-e004-46af-9b66-a612b271a0a3" width="100%" alt="Imagen">
+<img src="https://github.com/user-attachments/assets/e79febd9-7d75-42b0-a027-90dd0a34db9d" width="100%" alt="Imagen">
 </div>
-
 
 <h1 align="center">Hola 👋, yo soy José</h1>
 <h3 align="center">Actualmente, estoy en constante aprendizaje de lenguajes de programación y nuevas tecnologías de forma autodidacta. Siempre he pensado que ser profesional no es tener un título, sino saber qué hacer. </h3>
