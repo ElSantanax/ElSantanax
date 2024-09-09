@@ -7,7 +7,8 @@ Soy un desarrollador web que ha sido autodidacta durante años, lo que me ha per
 
 Me gusta diseñar sistemas que sean livianos, potentes, sincronizados y efectivos. Además, me mantengo en constante aprendizaje de nuevas tecnologías.
 
-<br/>  
+<br>  
+
 ### Redes Sociales 
 
 <a href="https://github.com/ElSantanax" target="_blank">
