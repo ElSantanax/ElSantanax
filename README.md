@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://github.com/user-attachments/assets/957b59af-bb6b-4e13-965d-a3cf8f27a0bf" width="800" Height="200" alt="Imagen">
+<img src="https://github.com/user-attachments/assets/957b59af-bb6b-4e13-965d-a3cf8f27a0bf" width="900" Height="200" alt="Imagen">
 </div>
 
 ### Me alegro de verte aquí! 🤘🏻  
