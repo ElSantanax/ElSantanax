@@ -6,7 +6,6 @@
 Soy un desarrollador web que ha sido autodidacta durante años, lo que me ha permitido construir una carrera como freelancer. Esta experiencia me ha capacitado para crear aplicaciones y sitios web centrados en el usuario, así como implementar soluciones de backend.
 
 Me gusta diseñar sistemas que sean livianos, potentes, sincronizados y efectivos. Además, me mantengo en constante aprendizaje de nuevas tecnologías.
-
 <br>  
 
 ### Redes Sociales 
