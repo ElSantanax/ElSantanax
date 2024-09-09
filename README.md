@@ -28,14 +28,12 @@ Me gusta diseñar sistemas que sean livianos, potentes, sincronizados y efectivo
   
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=ElSantanax&&style=flat-square" align="center" />
-</div> 
 
 <a href="https://paypal.me/ElSantanax" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="left"
-                />
-            </a></div>
+<img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="left" />
+</a>
+
+</div> 
 
 <br/>  
 
