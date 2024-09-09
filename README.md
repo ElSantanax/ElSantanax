@@ -7,6 +7,7 @@ Soy un desarrollador web que ha sido autodidacta durante años, lo que me ha per
 
 Me gusta diseñar sistemas que sean livianos, potentes, sincronizados y efectivos. Además, me mantengo en constante aprendizaje de nuevas tecnologías.
 
+<br/>  
 
 ### Redes Sociales 
 
@@ -29,9 +30,8 @@ Me gusta diseñar sistemas que sean livianos, potentes, sincronizados y efectivo
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=ElSantanax&&style=flat-square" align="center" />
 </div> 
+
 <br/>  
-
-
 
 ### Lenguajes y Herramientas  
 <div align="center">  
