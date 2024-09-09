@@ -2,10 +2,6 @@
 <img src="https://github.com/user-attachments/assets/957b59af-bb6b-4e13-965d-a3cf8f27a0bf" width="756" Height="200" alt="Imagen">
 </div>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ElSantanax&&style=flat-square" align="center" />
-</div> 
-
 ### Me alegro de verte aquí! 🤘🏻  
 Soy un desarrollador web que ha sido autodidacta durante años, lo que me ha permitido construir una carrera como freelancer. Esta experiencia me ha capacitado para crear aplicaciones y sitios web centrados en el usuario, así como implementar soluciones de backend.
 
@@ -27,7 +23,9 @@ Me gusta diseñar sistemas que sean livianos, potentes, sincronizados y efectivo
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
   
-
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=ElSantanax&&style=flat-square" align="center" />
+</div> 
 <br/>  
 
 
