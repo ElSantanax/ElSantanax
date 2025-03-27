@@ -2,7 +2,6 @@
 
 <img src="https://github.com/user-attachments/assets/b181b084-3d18-4475-867a-eaf54c361242" width="756" Height="200" alt="Imagen">
   
-<img src="https://github.com/user-attachments/assets/957b59af-bb6b-4e13-965d-a3cf8f27a0bf" width="756" Height="200" alt="Imagen">
 </div>
 
 ### Me alegro de verte aquí! 🤘🏻  
