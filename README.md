@@ -33,7 +33,6 @@ Me gusta diseñar sistemas que sean livianos, potentes, sincronizados y efectivo
 
 <img src="https://raw.githubusercontent.com/ElSantanax/ElSantanax/output/snake.svg" alt="Snake animation" />
 
-
 ### Redes Sociales 
 
 <br clear="both">
