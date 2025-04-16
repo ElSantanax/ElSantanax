@@ -6,14 +6,23 @@
 
 ###
 
+<div align="center">
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/josesantana22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jose-santana-8a8559245/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/ElSantanax) 
+
+</div>
+
+###
+
 ### Me alegro de verte aquí! 🤘🏻  
 Soy un desarrollador web que ha sido autodidacta durante años, lo que me ha permitido construir una carrera como freelancer. Esta experiencia me ha capacitado para crear aplicaciones y sitios web centrados en el usuario, así como implementar soluciones de backend.
 
 Me gusta diseñar sistemas que sean livianos, potentes, sincronizados y efectivos. Además, me mantengo en constante aprendizaje de nuevas tecnologías.
 <br/>  
 
+#
 ### Lenguajes y Herramientas  
-  
+
 <br/>  
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,11 +37,15 @@ Me gusta diseñar sistemas que sean livianos, potentes, sincronizados y efectivo
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
+#
+
 <br/>  
 
 <img src="https://raw.githubusercontent.com/ElSantanax/ElSantanax/output/snake.svg" alt="Snake animation" />
 
 <br/>  
+
+#
 
 ### Estadísticas 
 
