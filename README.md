@@ -19,8 +19,6 @@
 
 ### Me alegro de verte aquí! 🤘🏻  
 Soy desarrollador web con experiencia en la creación de aplicaciones y sitios enfocados en ofrecer una excelente experiencia de usuario. A lo largo de mi carrera, he participado en proyectos que exigen altos estándares de calidad, buen rendimiento y una integración fluida entre sistemas.
-
-Me gusta diseñar plataformas que sean livianas, sólidas y bien estructuradas. Siempre estoy explorando nuevas tecnologías y enfoques para seguir mejorando mis habilidades y aportar más valor a cada proyecto.
 <br/>  
 
 #
