@@ -18,7 +18,7 @@
 ###
 
 ### Me alegro de verte aquí! 🤘🏻  
-Soy desarrollador web con experiencia en la creación de aplicaciones y sitios enfocados en ofrecer una excelente experiencia de usuario. A lo largo de mi carrera, he participado en proyectos que exigen altos estándares de calidad, buen rendimiento y una integración fluida entre sistemas.
+Optimizo UX como si fueran Queries, integro sistemas como si fueran relaciones bien normalizadas y mantengo el rendimiento tan alto como mis expectativas de frontend limpio.
 <br/>  
 
 #
