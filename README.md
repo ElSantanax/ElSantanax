@@ -18,9 +18,9 @@
 ###
 
 ### Me alegro de verte aquí! 🤘🏻  
-- 🎯 Optimizo UX como si fueran *Queries*  
-- 🔗 Integro sistemas como si fueran relaciones bien normalizadas  
-- 🚀 Mantengo el rendimiento tan alto como mis expectativas de frontend limpio
+- 🎯 Optimizo UX como si fueran *Queries*.  
+- 🔗 Integro sistemas como si fueran relaciones bien normalizadas. 
+- 🚀 Mantengo el rendimiento tan alto como mis expectativas de frontend limpio.
 
 #
 ### Lenguajes y Herramientas  
