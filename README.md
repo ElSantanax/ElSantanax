@@ -18,12 +18,12 @@
 ###
 
 ### Me alegro de verte aquí! 🤘🏻  
-Optimizo UX como si fueran Queries, integro sistemas como si fueran relaciones bien normalizadas y mantengo el rendimiento tan alto como mis expectativas de frontend limpio.
-<br/>  
+- 🎯 Optimizo UX como si fueran *Queries*  
+- 🔗 Integro sistemas como si fueran relaciones bien normalizadas  
+- 🚀 Mantengo el rendimiento tan alto como mis expectativas de frontend limpio
 
 #
 ### Lenguajes y Herramientas  
-
 <br/>  
 
 <div align="center">
